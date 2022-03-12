@@ -73,7 +73,7 @@
       <Argument Key="EnumMemberSortOrder" Value="Value" />
       <Argument Key="FlagsEnumValueFormat" Value="IntegerValue" />
       <Argument Key="FlagsEnumSeparatorSize" Value="0" />
-      <Argument Key="BaseSourceCodeUrl" Value="https://github.com/EWSoftware/HtmlToMamlConverter/blob/master/Source/" />
+      <Argument Key="BaseSourceCodeUrl" Value="https://github.com/EWSoftware/HtmlToMamlConverter/blob/main/Source/" />
       <Argument Key="RequestExampleUrl" Value="https://github.com/EWSoftware/HtmlToMamlConverter/issues/new" />
     </TransformComponentArguments>
     <SourceCodeBasePath>..\Source\</SourceCodeBasePath>
